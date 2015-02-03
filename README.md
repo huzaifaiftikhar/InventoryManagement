@@ -5,7 +5,7 @@ THE MAIN OBJECTIVES OF INVENTORY MANAGEMENT SYSTEM ARE :
 • It automates each and every activity of the manual system. The response time of the system is very less and it works very fast.
 • It provides the user a quick response with very accurate information regarding the users etc.
 • It has a very friendly interface thus the users will feel very easy to work on it.
-• The transaction reports of the system can be retired as and when required. Thus, there is no delay in the availability of any information, whatever needed, can be captured very quickly and easily.
+• The transaction reports of the system can be retrieved as and when required. Thus, there is no delay in the availability of any information, whatever needed, can be captured very quickly and easily.
 • Reduce the cost of maintenance.
 HARDWARE AND SOFTWARE REQUIREMENTS
 Development
