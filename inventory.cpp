@@ -338,7 +338,7 @@ void adminpass()
 }
 
 // ==============================================
-// 		CHANGEPASS FUNCTION
+// 		CHANGEPASSWORD FUNCTION
 // ==============================================
 void changepass()
 {
